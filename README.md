@@ -1,1 +1,1 @@
-# ml-education-vectors
+# senatorov-ml-education
